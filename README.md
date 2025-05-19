@@ -16,4 +16,6 @@ OUTPUT:
 
   1.ColorSearchArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ColorSearchArrayList.png
   
-  2.
+  2.RemoveColorArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveColorsArrayList.png
+
+  3.
