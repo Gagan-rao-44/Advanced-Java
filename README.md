@@ -8,11 +8,10 @@ Sem/Section:VI/A
 Total Programs:28
 
 
-OUTPUT:
+  OUTPUT:
+  1a. ListInterfaceDemo -> https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo.png
 
-1a. ListInterfaceDemo -> https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo.png
-
-1b. ArrayList Programs
+  1b. ArrayList Programs
 
   1.ColorSearchArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ColorSearchArrayList.png
   
@@ -34,7 +33,7 @@ OUTPUT:
 
   4.DisplayElementsWithPositions ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/DisplayElementsWithPositions.png
 
-  5.
+  5.SwapElementsInLInkedList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/SwapElementsInLinkedList.png
 
 
 
