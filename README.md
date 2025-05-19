@@ -39,6 +39,7 @@ Total Programs:28
 2a.String_Operation ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Operations/string_operations1.png
                     ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Operations/string_operations2.png
 
+2b.PerformanceTestStringBufferVsBuilder ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Operations/PerformanceTestStringBufferVsBuilder.png
 
 
 
