@@ -18,4 +18,6 @@ OUTPUT:
   
   2.RemoveColorArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveColorsArrayList.png
 
-  3.
+  3.SortColorsArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/SortColorsArrayList.png
+
+  4.
