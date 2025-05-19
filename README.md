@@ -7,3 +7,5 @@ Total Programs:28
 
 OUTPUT:
 1a. ListInterfaceDemo -> https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo.png
+1b. ArrayList Programs
+  1.ColorSearchArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ArrayList/ColorSearchArrayList.png
