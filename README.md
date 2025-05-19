@@ -22,4 +22,4 @@ OUTPUT:
 
   4.SubListColorsArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/SublistColorsArrayList.png
 
-  5.
+  5.RemoveNthColorArrayList ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/RemoveNthColorArrayList.png
