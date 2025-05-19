@@ -28,7 +28,9 @@ OUTPUT:
 
   1.LinkedListIteratorFRomSecond ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/LinkedListIterateFromSecond.png
 
-  2.
+  2.ReverseLiknedListIteration ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ReverseLinkedListIteration.png
+
+  3.
 
 
 
