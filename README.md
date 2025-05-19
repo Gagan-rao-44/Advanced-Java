@@ -6,4 +6,4 @@ Total Programs:28
 
 
 OUTPUT:
-1a. ListInterfaceDemo ->
+1a. ListInterfaceDemo -> https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/ListInterfaceDemo.png
