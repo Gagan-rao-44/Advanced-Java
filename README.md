@@ -32,7 +32,9 @@ OUTPUT:
 
   3.InsertElementAtEnd ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/InsertElementAtEnd.png
 
-  4.
+  4.DisplayElementsWithPositions ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/ListInterfaceDemo/DisplayElementsWithPositions.png
+
+  5.
 
 
 
