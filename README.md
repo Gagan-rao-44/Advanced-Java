@@ -47,7 +47,7 @@ Total Programs:28
 
 2.SubstringCount ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/SubstringCount.png
 
-3.
+3.ReverseString ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/ReverseString.png
 
 
 
