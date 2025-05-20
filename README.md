@@ -55,7 +55,9 @@ Total Programs:28
 
 3c.String Exercise Programs
 
-6.
+6.CapitalizeEachWord ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/CapitalizeEachWord.png
+
+7.
 
 
 
