@@ -51,7 +51,11 @@ Total Programs:28
 
 4.PalindromeChecker ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/PalindromeChecker.png
 
-5.
+5.RemoveWhitespace ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/RemoveWhitespace.png
+
+3c.String Exercise Programs
+
+6.
 
 
 
