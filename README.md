@@ -89,7 +89,11 @@ Total Programs:28
 
 5c.CountryCapitalList ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program2/CountryCapitalList.png)
 
-5d.
+5d.ColorTabbedPane ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program2/ColorTabbedPane.png)
+
+---
+
+6a.
 
 
 
