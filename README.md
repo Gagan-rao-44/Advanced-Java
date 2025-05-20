@@ -101,7 +101,15 @@ Total Programs:28
 
   [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/CookieServlet/cookieservlet2.png)
 
-6c.
+6c.primenumber ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/PrimeServlet/primenumber1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/PrimeServlet/primenumber2.png)
+
+  ---
+
+  7a.
+
+  
   
 
 
