@@ -59,7 +59,9 @@ Total Programs:28
 
 7.TruncateString ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/TruncateString.png
 
-8.
+8.NumericCheck ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/NumericCheck.png
+
+9.
 
 
 
