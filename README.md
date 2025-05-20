@@ -97,7 +97,12 @@ Total Programs:28
 
   [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/FactorialCalculatorDemo2.png)
 
-6b.
+6b.Cookieservlet ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/CookieServlet/cookieservlet1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/CookieServlet/cookieservlet2.png)
+
+6c.
+  
 
 
 
