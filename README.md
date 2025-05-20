@@ -45,7 +45,9 @@ Total Programs:28
 
 1.NullorWhitespaceCheck ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/NullOrWhitespaceCheck.png
 
-2.
+2.SubstringCount ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/SubstringCount.png
+
+3.
 
 
 
