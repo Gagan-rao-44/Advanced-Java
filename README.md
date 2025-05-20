@@ -85,7 +85,9 @@ Total Programs:28
 
 5a.JListExample ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program2/JListExample.png)
 
-5b.
+5b.TabbedPaneExample ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Swing%20Program2/TabbedPaneExample.png)
+
+5c.
 
 
 
