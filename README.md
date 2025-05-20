@@ -107,7 +107,12 @@ Total Programs:28
 
   ---
 
-  7a.
+  7a.Session Management JSP ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/JSP%20Programs/sessionmanagementjsp1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/JSP%20Programs/sessionmanagementjsp2.png)
+
+  7b.Cookie Management JSP ->[output screenshot](
+    
 
   
   
