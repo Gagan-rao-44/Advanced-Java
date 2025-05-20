@@ -93,7 +93,11 @@ Total Programs:28
 
 ---
 
-6a.
+6a.FactorialCalculatorDemo ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/FactorialCalculatorDemo1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/Servlet%20Programs/FactorialCalculatorDemo2.png)
+
+6b.
 
 
 
