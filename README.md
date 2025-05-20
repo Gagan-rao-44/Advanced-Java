@@ -63,7 +63,7 @@ Total Programs:28
 
 9.RandomStringGenerator ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/RandomStringGenerator.png
 
-10.
+10.WordCount ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/WordCount.png
 
 
 
