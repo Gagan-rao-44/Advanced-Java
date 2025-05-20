@@ -41,7 +41,11 @@ Total Programs:28
 
 2b.PerformanceTestStringBufferVsBuilder ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Operations/PerformanceTestStringBufferVsBuilder.png
 
+3b.String Exercise programs
 
+1.NullorWhitespaceCheck ->https://github.com/Gagan-rao-44/Advanced-Java/blob/main/String%20Programs/NullOrWhitespaceCheck.png
+
+2.
 
 
 
