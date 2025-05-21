@@ -129,7 +129,13 @@ SQL+JDBC Programs:
 
   [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/InsertEmployee/insertemployee3.png)
 
-  8d.
+  8d.UpdateEmployee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/UpdateEmployee/updateemployee1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/UpdateEmployee/updateemployee2.png)
+
+  ---
+
+  9a.
 
   
   
