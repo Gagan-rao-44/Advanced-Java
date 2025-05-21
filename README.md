@@ -137,7 +137,9 @@ SQL+JDBC Programs:
 
   9a.DeleteCoffee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/DeleteCoffee/deletecoffee.png)
 
-  9b.
+  9b.QueryCoffee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/QueryCoffee/querycoffee.png)
+
+  9c.
 
   
   
