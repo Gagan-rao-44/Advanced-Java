@@ -143,7 +143,11 @@ SQL+JDBC Programs:
 
   [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/EmployeeReport/employeereport2.png)
 
-  9d.
+  9d.DeleteEmployee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/DeleteEmployee/deleteemployee1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/DeleteEmployee/deleteemployee2.png)
+  
+  
 
   
   
