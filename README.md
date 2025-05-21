@@ -139,7 +139,11 @@ SQL+JDBC Programs:
 
   9b.QueryCoffee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/QueryCoffee/querycoffee.png)
 
-  9c.
+  9c.EmployeeReport ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/EmployeeReport/employeereport1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC%20Operatins/EmployeeReport/employeereport2.png)
+
+  9d.
 
   
   
