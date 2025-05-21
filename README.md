@@ -123,7 +123,13 @@ SQL+JDBC Programs:
 
   8b.UpdateCoffee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/UpdateCoffee/updatecoffee.png)
 
-  8c.
+  8c.InserEmployee ->[output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/InsertEmployee/insertemployee1.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/InsertEmployee/insertemployee2.png)
+
+  [output screenshot](https://github.com/Gagan-rao-44/Advanced-Java/blob/main/SQL%2BJDBC/InsertEmployee/insertemployee3.png)
+
+  8d.
 
   
   
